@@ -1,0 +1,35 @@
+body
+{
+     background-image: url("Screenshot\ 2022-02-17\ at\ 10.11.47\ PM.png");
+     background-size: cover;
+}
+.login_div1 , .login_div2
+{
+    background-color: #ffcff7;
+    padding: 10px;
+    border-radius:15px ;
+    border:10px;
+    float: none;
+    border-color: black;
+}
+center
+{
+    margin-top: 350px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #fcc5d6;
+border-bottom: 2px solid #fac1d3;
+border-left: 2px solid #fac1d3;
+border-right: 2px solid #fac1d3;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+button
+{
+background-color: aquamarine;
+}
